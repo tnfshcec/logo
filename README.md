@@ -12,4 +12,4 @@
 
 ## 備註
 
-在 `電機社 Logo （大眼版本）` 中，大眼睛（Googly Eyes）的素材是由 [Kenney](www.kenney.nl) 提供，以 CC0 授權釋出。
+在 `電機社 Logo （大眼版本）` 中，大眼睛（Googly Eyes）的素材是由 [Kenney](https://www.kenney.nl/assets/googly-eyes) 提供，以 CC0 授權釋出。
