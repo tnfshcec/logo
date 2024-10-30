@@ -20,8 +20,10 @@
 
 ## 授權
 
-這邊的資源以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant) 授權開源，請在規定範圍內盡情使用。
+這邊的資源以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant) 授權開放，請在規定範圍內盡情使用。
 
 ## 備註
+
+多個 logo 中皆使用了 [OFL 授權](https://github.com/googlefonts/noto-emoji/blob/main/LICENSE) 的 [Noto Color Emoji](https://github.com/googlefonts/noto-emoji) 的圖標。
 
 在 `千奈 Logo` 中，大眼睛（Googly Eyes）的素材是由 [Kenney](https://www.kenney.nl/assets/googly-eyes) 提供，以 CC0 授權釋出。
